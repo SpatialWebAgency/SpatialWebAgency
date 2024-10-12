@@ -42,5 +42,6 @@ Our content library includes:
    git clone https://github.com/username/spatial-web-education-project.git
 Contributing: We welcome contributions from developers, educators, and innovators. Check out our Contributing Guidelines for more information on how to get involved.
 
-## Community: Join our global community by following our forum and Telegram for discussions, project collaborations, and updates.
+## Community: 
+Join our global community by following our forum and Telegram for discussions, project collaborations, and updates.
 
